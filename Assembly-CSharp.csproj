@@ -53,6 +53,7 @@
      <Compile Include="Assets\2D\Water\Water\Scripts\Water.cs" />
      <Compile Include="Assets\2D\Water\Water\Scripts\WaterBase.cs" />
      <Compile Include="Assets\2D\Water\Water\Scripts\WaterTile.cs" />
+     <Compile Include="Assets\_Scripts\DecalSystem\DecalSystem\Decal.cs" />
      <Compile Include="Assets\_Scripts\SplineSystem\Bezier.cs" />
      <Compile Include="Assets\_Scripts\SplineSystem\BezierControlPointMode.cs" />
      <Compile Include="Assets\_Scripts\SplineSystem\BezierSpline.cs" />
